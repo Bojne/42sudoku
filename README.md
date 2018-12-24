@@ -24,6 +24,6 @@ The solution for the example:
 4 7 2 1 6 8 9 3 5 $
 ```
 
-Knowledge retrieved from ![Solving Sudoku Puzzles using Depth First Search](https://logicalgenetics.com/solving-sudoku-puzzles-using-depth-first-search/)
+Knowledge retrieved from [Solving Sudoku Puzzles using Depth First Search](https://logicalgenetics.com/solving-sudoku-puzzles-using-depth-first-search/)
 
     
