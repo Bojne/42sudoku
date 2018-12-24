@@ -1,4 +1,5 @@
 ## School 42 Sudoku Project - Implemented in C w/ DFS
+
 To run the Sudoku program:
 1. Compile the file with `gcc -o sudoku *.c`
 2. Run `./sudoku line1 line2 line3 line4 line5 line6 line7 line8 line9 | cat -e`. 
@@ -22,5 +23,7 @@ The solution for the example:
 6 9 8 2 5 3 7 4 1 $
 4 7 2 1 6 8 9 3 5 $
 ```
+
+Knowledge retrieved from ![Solving Sudoku Puzzles using Depth First Search](https://logicalgenetics.com/solving-sudoku-puzzles-using-depth-first-search/)
 
     
